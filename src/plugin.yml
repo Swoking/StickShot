@@ -1,0 +1,6 @@
+name: StickShot
+version: 0.1-Beta
+author: Dinnerwolph
+main: fr.dinnerwolph.stickshoot.StickShoot
+commands:
+  game:
